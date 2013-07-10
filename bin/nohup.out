@@ -1,0 +1,49 @@
+WARNING:  RXTX Version mismatch
+	Jar version = RXTX-2.2pre1
+	native lib Version = RXTX-2.2pre2
+RXTX Warning:  Removing stale lock file. /var/lock/LCK..ttyUSB0
+Found port: /dev/ttyUSB0
+starting input scanner
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:29</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:39 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:30</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00018</watts></ch1></msg>
+2013/07/10:01:01:39 77 18.0
+SQL: insert into EnergyUse values("2013/07/10:01:01:39", '77', '18.000000')
+0<|>Success<|>0<|>0<|>
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:31</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:01:40 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:32</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:42 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:34</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:43 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:35</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:45 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:37</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:01:46 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:38</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:48 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:41</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:51 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:43</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:01:52 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:44</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:01:54 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:49</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:01:59 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:50</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:02:00 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:53</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00019</watts></ch1></msg>
+2013/07/10:01:02:03 77 19.0
+SQL: insert into EnergyUse values("2013/07/10:01:02:03", '77', '19.000000')
+0<|>Success<|>0<|>0<|>
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:54</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:02:03 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:55</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:02:05 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:57</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:02:06 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:45:59</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1></msg>
+2013/07/10:01:02:09 77 0.0
+<msg><src>CC128-v1.29</src><dsb>00187</dsb><time>05:46:01</time><tmpr>25.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00000</watts></ch1><ch2><watts>00000</watts></ch2></msg>
+2013/07/10:01:02:11 77 0.0
+YOU FAIL
